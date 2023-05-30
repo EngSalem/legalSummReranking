@@ -1,0 +1,6 @@
+Downloading and preparing dataset csv/default to /afs/cs.pitt.edu/usr0/yaz118/.cache/huggingface/datasets/csv/default-6c4d28de0d8fe032/0.0.0/bf68a4c4aefa545d0712b2fcbb1b327f905bbe2f6425fbc5e8c25234acb9e14a...
+Dataset csv downloaded and prepared to /afs/cs.pitt.edu/usr0/yaz118/.cache/huggingface/datasets/csv/default-6c4d28de0d8fe032/0.0.0/bf68a4c4aefa545d0712b2fcbb1b327f905bbe2f6425fbc5e8c25234acb9e14a. Subsequent calls will reuse this data.
+Results
+ROUGE1:  Score(precision=0.554090085562847, recall=0.48014204443505404, fmeasure=0.46756830316924475)
+ROUGE2:  Score(precision=0.26481321858282314, recall=0.22456848483621455, fmeasure=0.21892139569747798)
+ROGUEL:  Score(precision=0.3327634300827469, recall=0.2847901610887091, fmeasure=0.27713681731786133)
