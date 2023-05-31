@@ -9,13 +9,13 @@ Opinions with Summary Reranking" Accepted for Findings of ACL 2023
 
 ## Summarization
 
-* The main training , and testing scripts are obtained from [[this repostiory] (https://github.com/EngSalem/arglegalsumm)]
+* The main training , and testing scripts are obtained from [[this repostiory](https://github.com/EngSalem/arglegalsumm)]
 
 ## IRC classification
-* We used the classification code povided in [[this link] (https://github.com/EngSalem/arglegalsumm/tree/master/src/argument_classification)]
+* We used the classification code povided in [[this link](https://github.com/EngSalem/arglegalsumm/tree/master/src/argument_classification)]
 
 ## Reranking
-* Our reranking script can be found [[here] (https://github.com/EngSalem/legalSummReranking/tree/main/src/rankers/)]
+* Our reranking script can be found [[here](https://github.com/EngSalem/legalSummReranking/tree/main/src/rankers/)]
 * This script leverages multiple beams and multiple folds simultaeously 
 * Change the *basefile directories* in the script according to your inputs, and your *final output* to your own choice.
 
