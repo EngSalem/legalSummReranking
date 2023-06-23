@@ -32,7 +32,12 @@ Opinions with Summary Reranking" Accepted for Findings of ACL 2023
 
 If you are going to follow up on this project please cite this work using the following bibtext:*
 ```
-To be added
+@article{elaraby2023towards,
+  title={Towards Argument-Aware Abstractive Summarization of Long Legal Opinions with Summary Reranking},
+  author={Elaraby, Mohamed and Zhong, Yang and Litman, Diane},
+  journal={arXiv preprint arXiv:2306.00672},
+  year={2023}
+}
 ```
 
 You can also refer to our previous paper
